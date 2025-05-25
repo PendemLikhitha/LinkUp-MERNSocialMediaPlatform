@@ -25,9 +25,11 @@
 
 ### Login Page
 
-![Image](https://github.com/user-attachments/assets/851a23f9-599c-469d-be99-8aafac887933)
+![Image](https://github.com/user-attachments/assets/bb49497c-678e-42af-bf34-2a43e44367be)
 
-![Image](https://github.com/user-attachments/assets/70d81a77-b6f0-434b-9aaf-4458090746b9)
+![Image](https://github.com/user-attachments/assets/04fe37c2-209c-407b-8630-381332015604)
+
+![Image](https://github.com/user-attachments/assets/93042c26-40fc-456c-95d3-1c36aa9adfe3)
 
 
 ### SignUp Page
@@ -36,6 +38,8 @@
 ![Image](https://github.com/user-attachments/assets/33bda02b-1278-4d1d-b1ff-c58991e5a536)
 
 ![Image](https://github.com/user-attachments/assets/851a23f9-599c-469d-be99-8aafac887933)
+
+![Image](https://github.com/user-attachments/assets/70d81a77-b6f0-434b-9aaf-4458090746b9)
 
 ### 👤 Profile Page
 
