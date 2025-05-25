@@ -85,42 +85,47 @@
 ```bash
 git clone https://github.com/PendemLikhitha/LinkUp-MERNSocialMediaPlatform.git
 cd LinkUp-MERNSocialMediaPlatform
+```
 
 ## 2️⃣ Install Dependencies
 
-### 🔧 Backend
+### Backend
 
 ```bash
 cd server
 npm install
-
-Frontend
-
+```
+### Frontend
+```bash
 cd ../client
 npm install
+```
 
 3️⃣ Add .env Files
 Create .env in both server/ and client/ directories.
 
 📄 Example .env (Server)
-env
-Copy
-Edit
+```bash
 PORT=5000
 MONGO_URI=your_mongodb_uri
 JWT_SECRET=your_jwt_secret
 CLOUDINARY_CLOUD_NAME=your_cloud_name
 CLOUDINARY_API_KEY=your_api_key
 CLOUDINARY_API_SECRET=your_api_secret
+```
 
 4️⃣ Start the App
 ▶️ In one terminal (backend):
+```bash
 cd server
 npm install
 node server.js
+```
 ▶️ In another terminal (frontend):
+```bash
 cd client
 npm start
+```
 🔗 Open http://localhost:3000 to view the app in your browser.
 Made with ❤️ using the MERN Stack.
 
